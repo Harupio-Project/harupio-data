@@ -21,6 +21,7 @@ Arphic PL KaitiM GB and Arphic PL UKai and distributed under the **Arphic Public
 - 2026-10-18: the travel-scene sentences were expanded; the selection was recomputed from the original graphics.txt and 20 characters were added: 2,881 characters in total. The lines themselves are still copied unchanged.
 - 2026-10-19: the pronunciation (pinyin) course was expanded; the selection was recomputed from the original graphics.txt and 10 characters were added: 2,891 characters in total. The lines themselves are still copied unchanged.
 - 2026-10-21: part of the sentence course was rewritten; the 11 new characters were taken from the original graphics.txt and added, and no earlier line was removed: 2,902 characters in total. The lines themselves are still copied unchanged.
+- 2026-11-04: the everyday-life scene sentences (300) were added; the 33 new characters were taken from the original graphics.txt and added, and no earlier line was removed: 2,935 characters in total. The lines themselves are still copied unchanged.
 
 ## License
 
