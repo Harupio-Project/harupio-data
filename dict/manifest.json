@@ -5,7 +5,39 @@
   "rows": 22621
  },
  "harupio-dict-ja.json": {
-  "sha256": "8305b9ec2a72ae45ee70d5f0297b6254152ee2279f711df6af5581a103b03c25",
+  "sha256": "839eaba94d3f5be09a8d8cef10a45bfaf303788b991fbac79a9e76af8f3fcf21",
   "ver": "2026-10-24"
+ },
+ "harupio-dict-ko.json": {
+  "sha256": "442251c8fcb3b7642d1b5fb695f41790dddf1a963ef04ac3fbea052c4fa39470",
+  "ver": "2026-10-28"
+ },
+ "harupio-dict-en.json": {
+  "sha256": "b0c26fa5b6b70f21ccea784fad6dcd9fd38b03b2b268b56613be5570af446e36",
+  "ver": "2026-11-09"
+ },
+ "harupio-dict-zh.json": {
+  "sha256": "7e759abbb57643846096df34c850c69db8fa36418eb65f4fe62df02af9d85406",
+  "ver": "2026-11-09"
+ },
+ "harupio-dict-es.json": {
+  "sha256": "d0764fe8bf47acb7693966b995e8e6f31d053d621b4a4500d1855173ea68bed1",
+  "ver": "2026-11-04"
+ },
+ "harupio-dict-fr.json": {
+  "sha256": "aa81748ad16b0c793ad2668fc458c2f4e732516019fd0367b749f3fb356a00c8",
+  "ver": "2026-11-04"
+ },
+ "harupio-dict-de.json": {
+  "sha256": "e4f7ac59b3035ca5038a711cba3ade02227253a29aac15502a4b5c9668a6a828",
+  "ver": "2026-11-04"
+ },
+ "harupio-dict-it.json": {
+  "sha256": "a60e3b24724dea6f270efccf4734778e5356d552a765bc25c65643302201cf45",
+  "ver": "2026-11-04"
+ },
+ "harupio-dict-pt.json": {
+  "sha256": "01758895b6853abeb49cff99abb947a1d256f85b4305364e3bb5c1a976503785",
+  "ver": "2026-11-04"
  }
 }
