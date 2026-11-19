@@ -2,8 +2,8 @@
  "ja": [
   {
    "k": "ja-stroke",
-   "sha": "b429f2687862e357f050fb5d368f3d9ae27932f8c52e33eb2c5c434e9c638a3c",
-   "n": 916797,
+   "sha": "c65496ffbfbee2d7a59de9284b1195beb6a2dedb5381f2fa218b8fb2e9b0a042",
+   "n": 917437,
    "w": "획순(KanjiVG)"
   }
  ],
@@ -11,16 +11,16 @@
  "en": [
   {
    "k": "en-voc",
-   "sha": "d6b918d49a9842b8e467c743ad464763fc4b0e023fc8ddabdf38a8c265fed1d1",
-   "n": 2065791,
+   "sha": "328646e50d6bd5761ea792ac6adb0dc2dfe76009800eee9086884e5cc6cf71ce",
+   "n": 2065849,
    "w": "레벨 단어(wordfreq)"
   }
  ],
  "zh": [
   {
    "k": "zh-stroke",
-   "sha": "938741659f7adf71e6c180f1aacf1c6fd93488bbde12246d8cc3b4792c896019",
-   "n": 4546993,
+   "sha": "1d8cde20099017504ee2b2ae06aa229e55e3539b9885f9daa91a304e49908732",
+   "n": 4547760,
    "w": "획순(Make Me a Hanzi)"
   }
  ]
